@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a510c054deafba64da6fb511653477c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fadeIn: {fileID: 7400000, guid: 752c8255d2624c841848ff0241f36027, type: 2}
+  - fadeOut: {fileID: 7400000, guid: c2d580465567e6947aab0638510bda1f, type: 2}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

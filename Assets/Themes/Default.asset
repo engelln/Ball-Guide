@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd6ed6dbce4a7dd4181e4fcddf686b06, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  background: {r: 0, g: 0, b: 0, a: 1}
+  ball: {r: 1, g: 1, b: 1, a: 1}
+  text: {r: 1, g: 1, b: 1, a: 1}
+  line: {r: 1, g: 1, b: 1, a: 1}
+  start: {r: 0, g: 1, b: 0, a: 1}
+  finish: {r: 1, g: 0, b: 0, a: 1}
+  guide: {r: 1, g: 1, b: 1, a: 1}
+  font: {fileID: 12800000, guid: f873a198bfe992d4f9cbb88724d25aad, type: 3}
+  title: {fileID: 12800000, guid: 67cf16b2dfb1b484ba6d0ff25e211d37, type: 3}
