@@ -1,5 +1,5 @@
 # Ball Guide
-Source code for a game I created in 2018. All C# code can be found in the Assets/Scripts directory.
+Source code for a game I created between June and Spetember 2018. All C# code can be found in the Assets/Scripts directory.
 
 # Requirements
 This game was created in the Unity engine. Any version should do, but it was created specifically in Unity 2018.1.6. The Android SDK can also be installed if you wish to build the APK.
